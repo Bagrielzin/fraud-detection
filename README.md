@@ -140,9 +140,3 @@ jupyter notebook notebooks/fraud_detection.ipynb
 - Cross-validation estratificada
 - Ajuste de threshold de decisão
 - Feature importance com SHAP values
-
----
-
-## 📄 Licença
-
-MIT © [Seu Nome](https://github.com/seu-usuario)
